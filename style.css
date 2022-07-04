@@ -10,10 +10,12 @@ h1{
 }
 section{
     display:flex;
+    padding-left: 60px;
+    margin-bottom: 100px;
 }
 .halfWidth{
     width: 50%;
-    padding-left: 2%;
+    padding-left: 1%;
 }
 .halfWidth img{
     width: 80%;
@@ -30,4 +32,15 @@ section{
 #banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+#dream{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: 200px;
+}
+#justify{
+    text-align: left;
+    margin-right: 20px;
+    
 }
