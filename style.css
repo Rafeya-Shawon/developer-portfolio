@@ -4,3 +4,25 @@ body{
 h1{
     font-size: 50px;
 }
+#name{
+    color:crimson;
+}
+section{
+    display:flex;
+}
+.halfWidth{
+    width: 50%;
+    padding-left: 2%;
+}
+.halfWidth img{
+    width: 80%;
+}
+.linkButton{
+    text-decoration:black;
+    background-color: coral;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(orange, coral);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
