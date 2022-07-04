@@ -1,0 +1,1 @@
+(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[11],{hxfP:function(t,n,r){"use strict";r.d(n,"a",(function(){return o}));var a=r("eHG4");function o(t){return Object(a.a)({tag:"svg",attr:{viewBox:"0 0 16 16",fill:"currentColor"},child:[{tag:"path",attr:{d:"M2 5.56L2.413 5h11.194l.393.54L8.373 11h-.827L2 5.56z"}}]})(t)}}}]);

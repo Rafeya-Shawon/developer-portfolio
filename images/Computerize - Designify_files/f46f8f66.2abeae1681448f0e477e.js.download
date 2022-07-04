@@ -1,0 +1,1 @@
+(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[16],{"6XnP":function(n,t,o){"use strict";o.d(t,"a",(function(){return e}));var r=o("eHG4");function e(n){return Object(r.a)({tag:"svg",attr:{fill:"none",viewBox:"0 0 24 24",stroke:"currentColor"},child:[{tag:"path",attr:{strokeLinecap:"round",strokeLinejoin:"round",strokeWidth:"2",d:"M4 8h16M4 16h16"}}]})(n)}}}]);
